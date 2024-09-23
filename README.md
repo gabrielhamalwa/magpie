@@ -6,16 +6,16 @@ Welcome to the official repository for our presentation at LWDA'24, held in Wür
 ## Repository Contents
 
 - **Poster**
-  - [LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./poster/LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The official conference poster.
+  - [PDF](./poster/LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The official conference poster.
 
 - **Paper**
-  - [LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./paper/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The full conference paper detailing our research and findings.
+  - [PDF](./paper/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The full conference paper detailing our research and findings.
 
 - **Slides**
-  - [LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration-Slides.pdf](./slides/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration-Slides.pdf) - Slide deck presented at the conference, providing detailed research information.
+  - [PDF](./slides/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration-Slides.pdf) - Slide deck presented at the conference, providing detailed research information.
 
 - **Citations**
-  - [cited-references.bib](./references/cited-references.bib) - Bibliographic file listing all references cited in our poster and paper.
+  - [PDF & .bib File](./references/cited-references.bib) - Bibliographic file listing all references cited in our poster.
 
 ## How to Navigate
 
@@ -24,7 +24,7 @@ You can find each section of our research materials organised into folders withi
 ## Contact Information
 
 For further enquiries or if you wish to collaborate, please do not hesitate to contact us at:
-- E-mail: [gabriel.hamalwa@campus.lmu.de](mailto:gabriel.hamalwa@campus.lmu.de)
+- E-Mail: [gabriel.hamalwa@campus.lmu.de](mailto:gabriel.hamalwa@campus.lmu.de)
 
 ## Citing This Work
 
