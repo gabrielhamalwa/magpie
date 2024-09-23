@@ -6,10 +6,10 @@ Welcome to the official repository for our presentation at LWDA'24, held in Wür
 ## Repository Contents
 
 - **Poster**
-  - [LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./posters/LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The official conference poster.
+  - [LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./poster/LWDA24-2024-09-Wuerzburg-Germany-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The official conference poster.
 
 - **Paper**
-  - [LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./papers/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The full conference paper detailing our research and findings.
+  - [LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf](./paper/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration.pdf) - The full conference paper detailing our research and findings.
 
 - **Slides**
   - [LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration-Slides.pdf](./slides/LWDA24-2024-09-Wuerzburg-Germany-Mind-AI-Gap-Psychometric-Profiling-GPT-Models-Bias-Exploration-Slides.pdf) - Slide deck presented at the conference, providing detailed research information.
